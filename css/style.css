@@ -1,0 +1,75 @@
+body
+{
+    width: 75%;
+    margin: 0 auto;
+    
+}
+
+section
+{
+    padding: 1em;
+}
+
+h2
+{
+    color: blueviolet;
+    text-transform: capitalize;
+    padding: 0;
+}
+
+img
+{
+    border-radius: 50%;
+    float: right;
+}
+
+span
+{
+    font-style: italic;
+}
+
+
+.name
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+.section_name
+{
+    height: 150px;
+    padding: 20px;
+}
+
+nav
+{
+    text-align: center;
+}
+table
+{
+    width: 100%;
+    table-layout: fixed;
+}
+th
+{
+    background-color: grey;
+    color: #f7f7f7;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+table, td, th
+{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 10px;
+}
+
+
+.hobbies
+{
+   font-weight: bold;
+   margin: 5px 0;
+}
