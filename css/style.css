@@ -38,12 +38,13 @@ span
     background-color: grey;
     color: #fff;
     padding: 10px;
+    margin-top: 0;
 }
 
 .section_name
 {
     height: 250px;
-    padding: 20px;
+    
     border-bottom: 1px solid black;
 }
 
