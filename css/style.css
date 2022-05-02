@@ -44,6 +44,12 @@ span
     border-bottom: 1px solid black;
 }
 
+.name
+{
+    background-color: grey;
+    color: #fff;
+}
+
 nav
 {
     text-align: center;
